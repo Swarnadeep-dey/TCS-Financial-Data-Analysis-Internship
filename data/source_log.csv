@@ -1,0 +1,10 @@
+Priority,Source,Use,Reference,Treatment
+1,TCS Investor Relations – Financial Statements,Quarterly financial statements / historical verification,https://www.tcs.com/investor-relations/financial-statements,Source of record
+1,TCS Q1 FY27 Results,"Current revenue, margin, TCV, AI run-rate, headcount, attrition",https://www.tcs.com/who-we-are/newsroom/press-release/tcs-financial-results-q1-fy-2027,Source of record
+1,Infosys Quarterly Results,Quarterly results and historical verification,https://www.infosys.com/investors/reports-filings/quarterly-results/,Source of record
+1,Infosys Q1 FY27 Results,Current KPI validation,https://www.infosys.com/investors/reports-filings/quarterly-results/2026-2027/q1.html,Source of record
+1,HCLTech Financial Results,Quarterly results and historical verification,https://www.hcltech.com/en-us/investor-relations/financial-results,Source of record
+1,HCLTech Q1 FY27 Results,Current KPI validation,https://www.hcltech.com/investor-relations,Source of record
+1,Wipro Stock Exchange Filings,Quarterly results and historical verification,https://www.wipro.com/investors/corporate-governance/stock-exchange-filings/,Source of record
+1,Wipro Q1 FY27 Results,Current KPI validation,https://www.wipro.com/newsroom/press-releases/2026/wipro-announces-results-for-the-quarter-ended-june-30-2026/,Source of record
+2,Screener – TCS/Infosys/HCLTech/Wipro,Structured historical quarterly extraction,Screener consolidated company pages,Secondary; not source of record
